@@ -1,2 +1,2 @@
 # internet-of-gardens
-WorkAdventure map connecting gardens
+The internet of gardens is a WorkAdventure map connecting gardens all over the world.
