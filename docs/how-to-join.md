@@ -34,11 +34,11 @@ In ein paar Minuten erscheinen deine Änderungen in den GitHub Pages. Jetzt kann
 
 ## Wie kommt dein Link auf die "Internet of Gardens"-Map?
 
-Damit dein Garten im Netzwerk gefunden wird, schreib bitte einen Issue mit
+Damit dein Garten im Netzwerk gefunden wird, schreib bitte einen Issue ins Projekt [internet-of-gardens](https://github.com/c0c0bird/internet-of-gardens) mit
 
 * URL deiner main.json, ggf. mit gewünschtem Startlayer-Anker (z.B. wir.github.io/unserGarten/main.json#start_IoG)
 * Text für dein Exit-Schild, normalerweise der Name deines Gartens (z.B. "Unser Garten")
-* Ort wo dein Logo zu finden ist, sofern dein Gartenprojekt eines hat
+* wo dein Logo zu finden ist, sofern dein Gartenprojekt eines hat
 
 ## Ohne GitHub
 
