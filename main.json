@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/c0c0bird.github.io\/internet-of-gardens\/docs\/how-to-play.html"
+                 "value":"https:\/\/c0c0bird.github.io\/internet-of-gardens\/docs\/how-to-join"
                 }],
          "type":"tilelayer",
          "visible":true,
