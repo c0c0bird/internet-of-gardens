@@ -2,7 +2,7 @@
 
 ## Schnellstart
 
-Um ohne große Vorkenntnisse schnell dabei zu sein, nimmst du am besten unseren Vorlagengarten und passt ihn an. Melde dich dafür bei [GitHub](https://github.com/join) an. Dann geh zum Projekt [mitmachgarten-laatzen](https://github.com/c0c0bird/mitmachgarten-laatzen) und klicke auf "Use this template". Gib deinem neuen Repository einen Namen und stelle es auf "Public". Nachdem fertig angelegt ist, kannst du unter "Einstellungen" -> "Github Pages" den URL sehen, unter dem es veröffentlicht wurde.
+Um ohne Vorkenntnisse zu starten, nimmst du am besten unseren Vorlagengarten und passt ihn an. Melde dich dafür bei [GitHub](https://github.com/join) an. Dann geh zum Projekt [mitmachgarten-laatzen](https://github.com/c0c0bird/mitmachgarten-laatzen) und klicke auf "Use this template". Gib deinem neuen Repository einen Namen und stelle es auf "Public". Nachdem fertig angelegt ist, kannst du unter "Einstellungen" -> "Github Pages" den URL sehen, unter dem es veröffentlicht wurde.
 
 Die Garten-Map ist nun unter "https://[deinName].github.io/[deinProjekt]/main.json" erreichbar, sieht aber noch aus wie der Vorlagengarten. Jetzt geht es ans Anpassen, um deinen Garten daraus zu machen.
 
