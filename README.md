@@ -3,7 +3,7 @@ The internet of gardens is a WorkAdventure map connecting gardens all over the w
 
 You can play is on any WorkAdventure instance [like that](https://play.workadventu.re/_/global/c0c0bird.github.io/internet-of-gardens/main.json).
 
-If you are part of a community garden or any gardening related project, please consider creating a map of your garten to [participate in the network](docs/how-to-join).
+If you are part of a community garden or any gardening related project, please consider creating a map of your garden to [participate in the network](docs/how-to-join).
 
 # Internet der Gärten
 Das Internet der Gärten ist eine WorkAdventure-Map mit dem Ziel, Gärten in aller Welt zu verbinden.
