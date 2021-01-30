@@ -33,6 +33,14 @@ In ein paar Minuten erscheinen deine Änderungen in den GitHub Pages. Jetzt kann
 * https://play.meet.n2n.io/_/global/[deinName].github.io/[deinProjekt]/main.json
 * https://play.workadventu.re/_/global/[deinName].github.io/[deinProjekt]/main.json
 
+## Wie kommt dein Link auf die "Internet of Gardens"-Map?
+
+Damit dein Garten im Netzwerk gefunden wird, schreib bitte einen Issue mit
+
+* URL deiner main.json, ggf. mit gewünschtem Startlayer-Anker (z.B. wir.github.io/unserGarten/main.json#start_IoG)
+* Text für dein Exit-Schild, normalerweise der Name deines Gartens (z.B. "Unser Garten")
+* Ort wo dein Logo zu finden ist, sofern dein Gartenprojekt eines hat
+
 ## Ohne GitHub
 
 Natürlich kannst du deine Json-Dateien und die zugehörigen Tilesets auf jedem Webserver hinterlegen. Lade dafür die Vorlage als ZIP herunter, gestalte deinen Garten wie oben beschrieben und lade dann das ganze Verzeichnis auf den Webspace deines Vertrauens hoch.
