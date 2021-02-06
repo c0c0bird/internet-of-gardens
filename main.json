@@ -205,7 +205,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json"
+                 "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json#start_ostsee_unten"
                 }],
          "type":"tilelayer",
          "visible":true,
